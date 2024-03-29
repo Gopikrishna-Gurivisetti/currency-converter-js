@@ -1,7 +1,7 @@
 {
   "name": "currency-converterapi-js",
-  "version": "1.0.2",
-  "description": "convert the currency",
+  "version": "1.0.3",
+  "description": "convert the currency using freecurrencyapi key",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -17,14 +17,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Gopikrishna500apps/currency-converter-js.git"
+    "url": "git+https://github.com/Gopikrishna-Gurivisetti/currency-converter-js.git"
   },
   "author": "Gopikrishna Gurivisetti",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Gopikrishna500apps/currency-converter-js/issues"
+    "url": "https://github.com/Gopikrishna-Gurivisetti/currency-converter-js.git/issues"
   },
-  "homepage": "https://github.com/Gopikrishna500apps/currency-converter-js#readme",
+  "homepage": "https://github.com/Gopikrishna-Gurivisetti/currency-converter-js.git#readme",
   "dependencies": {
     "currency-exchangeapi-js": "^1.0.1"
   }
