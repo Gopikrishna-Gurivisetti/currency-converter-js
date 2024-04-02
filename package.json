@@ -1,6 +1,6 @@
 {
   "name": "currency-converterapi-js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "convert the currency using freecurrencyapi key",
   "main": "index.js",
   "type": "module",
